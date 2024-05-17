@@ -1,0 +1,20 @@
+body {
+    background-image: url(JWST\ 1.png);
+    background-position: right;
+}
+h1 {
+    color: firebrick; font-family: sans-serif; text-decoration: underline;
+}
+p {
+    color: firebrick; font-family: sans-serif; font-size: larger;
+}
+img {
+    border: 10px solid dimgrey;
+    max-width: 100%;
+    height: auto;
+}
+a {
+    font-size: large;
+    font-family: sans-serif;
+    color: red;
+}

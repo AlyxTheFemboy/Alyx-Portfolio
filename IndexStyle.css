@@ -1,0 +1,19 @@
+body {
+    background: 
+    linear-gradient(to right,#5BCEFA, #F5A9B8, white,#F5A9B8, #5BCEFA, #D52D00, #EF7627, #FF9A56, white, #D162A4, #B55690, #A30262)
+}
+h1 {
+    font-family: sans-serif;
+    font: bold;
+    text-decoration: underline;
+}
+p {
+    font-family: sans-serif;
+    font-size: large;
+    color: black;
+}
+a {
+    font-size: x-large;
+    font-family: sans-serif;
+    color: black;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url(_DSC0423.JPG);
+    background-position: center;
+    height: 100vh;
+}
+h1 {
+    font-family: sans-serif;
+    font: bold;
+    text-decoration: underline;
+}
+p {
+    font-family: sans-serif;
+    font-size: large;
+    color: white;
+}
+a {
+    font-family: sans-serif;
+    font-size: x-large;
+    color: black;
+}
