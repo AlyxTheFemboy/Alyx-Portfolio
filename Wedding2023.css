@@ -1,0 +1,22 @@
+body {
+    background-color: gainsboro;
+}
+h1 {
+    font-family: sans-serif;
+    font: bold;
+    text-decoration: underline;
+    color: black;
+}
+p {
+    font-family: sans-serif;
+    font-size: large;
+    color: black;
+}
+a {
+    font-family: sans-serif;
+    font-size: x-large;
+    color: black;
+}
+img {
+    border: 10px solid black;
+}
